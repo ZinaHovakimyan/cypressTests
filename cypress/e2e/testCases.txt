@@ -1,0 +1,44 @@
+I. registration functionality
+
+1.Open https://automationteststore.com/index.php?rt=account/create url address
+2.fill in the all fields with valid data
+3.click continue button
+
+Result: User should navigate to his Profile page.
+
+
+II. Search functionality
+
+1.Open https://automationteststore.com/ url address
+2.click on button Search
+3.fill in tha field Search Criteria
+4.choose from the field All Categories some category 
+5.click on button Search
+
+Result: It should be displayed chosen products.
+
+III. Search by sort functionality
+
+1.Open https://automationteststore.com/ url address
+2.click on button Search
+3.fill in tha field Search Criteria
+4.choose from the field All Categories some category 
+5.click on button Search
+6.select from the field sort by "Price low > high"
+
+Result: It should be displayed chosen products by sort with price from low to high.
+
+IV.Specials functionality
+
+1.Open https://automationteststore.com/index.php?rt=product/special url address
+2.from the field Sort by select Date New > Old
+
+Result: It should be displayed special products from new date to old date.
+
+V.Specials functionality
+
+1.Open https://automationteststore.com/index.php?rt=product/special url address
+2.from the field Sort by select Date New > Old
+3.click on some product
+
+Result: It should be displayed selected product with two prices.
