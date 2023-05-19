@@ -42,3 +42,44 @@ V.Specials functionality
 3.click on some product
 
 Result: It should be displayed selected product with two prices.
+
+VI.Cart functionality
+
+1.Open https://automationteststore.com/ url address
+2.click on someone product
+3.click on button "Add to Cart"
+
+Result: The cart icon should show one more item.
+
+VII.Print functionality
+
+1.Open https://automationteststore.com/ url address
+2.click on someone product
+3.click on icon Print
+
+Result: It should be displayed window of print.
+
+VIII.Remove the item from cart
+
+1.Open https://automationteststore.com/ url address
+2.click on the cart's icon
+3.click on the remove's icon
+
+Result: The cart icon should show one less item.
+
+IX.product's functionality
+
+1.Open https://automationteststore.com/ url address
+2.click on someone product
+
+Result: It should show chosen product's discription.
+
+X.Login functionality
+
+1.Open https://automationteststore.com/ url address
+2.click on the button "Login or register"
+3.input login name "zina1985"
+4.input password "12345678"
+5.click on button "login"
+
+Result: It should enter user's account. 
